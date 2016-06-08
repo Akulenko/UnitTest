@@ -1,0 +1,8 @@
+D:\Training Autotesting\Unit test\UnitProject\TestPen\bin\Debug\TestPen.dll
+D:\Training Autotesting\Unit test\UnitProject\TestPen\bin\Debug\TestPen.pdb
+D:\Training Autotesting\Unit test\UnitProject\TestPen\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Training Autotesting\Unit test\UnitProject\TestPen\bin\Debug\UnitProject.exe
+D:\Training Autotesting\Unit test\UnitProject\TestPen\bin\Debug\UnitProject.pdb
+D:\Training Autotesting\Unit test\UnitProject\TestPen\obj\Debug\TestPen.csprojResolveAssemblyReference.cache
+D:\Training Autotesting\Unit test\UnitProject\TestPen\obj\Debug\TestPen.dll
+D:\Training Autotesting\Unit test\UnitProject\TestPen\obj\Debug\TestPen.pdb

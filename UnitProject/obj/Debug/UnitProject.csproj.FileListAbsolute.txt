@@ -1,0 +1,6 @@
+D:\Training Autotesting\Unit test\UnitProject\UnitProject\bin\Debug\UnitProject.exe.config
+D:\Training Autotesting\Unit test\UnitProject\UnitProject\bin\Debug\UnitProject.exe
+D:\Training Autotesting\Unit test\UnitProject\UnitProject\bin\Debug\UnitProject.pdb
+D:\Training Autotesting\Unit test\UnitProject\UnitProject\obj\Debug\UnitProject.csprojResolveAssemblyReference.cache
+D:\Training Autotesting\Unit test\UnitProject\UnitProject\obj\Debug\UnitProject.exe
+D:\Training Autotesting\Unit test\UnitProject\UnitProject\obj\Debug\UnitProject.pdb
